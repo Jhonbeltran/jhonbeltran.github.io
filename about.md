@@ -39,7 +39,7 @@ Luego de saber que lo mio era la industra tec tuve la posibilidad de trabajar en
 
 Soy quién deja un fondo de pantalla para motivarse a alcanzar lo que quiere o para relajarme y sentirme en el lugar que quiero estar, creo cada día más en el poder de la __mente__ y que es uno quién crea el mundo en el que quiere vivir.
 
-Si llegaste hasta el final dejame un mensaje en cualquiera de mis redes sociales que están a la izquierda ó dejame un correo a [jhonbeltran@imup.biz][mail], estaré encantado de responder.
+Si llegaste hasta el final déjame un mensaje en cualquiera de mis redes sociales que están a la izquierda ó dejame un correo a [jhonbeltran@imup.biz][mail], estaré encantado de responder.
 
 Aun quedan muchas cosas por hacer, ciencias y humanidades, rescatar animales, marketing, inteligencia artificial… por el camino vamos mirando...
 

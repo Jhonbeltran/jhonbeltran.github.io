@@ -5,7 +5,7 @@ main:
     url: https://platzi.com/@jbeltranleon
 
 docs:
-  - title: Title
+  - title: Contacto
     children:
-      - title: "Children"
-        url: /#/
+      - title: "Déjame un correo"
+        url: mailto:jhonbeltran@imup.biz
