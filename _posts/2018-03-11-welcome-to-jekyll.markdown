@@ -1,16 +1,48 @@
 ---
-layout: post
-title:  "Welcome to Jekyll!"
-date:   2018-03-11 17:01:30 -0500
+layout: single
+title:  "¿Cómo saber el valor del dolar desde la terminal?"
+date:   2017-07-19 20:39:23 -0500
 categories: jekyll update
+share: yes
+author_profile: true
+author: Jhon Beltrán
+excerpt: En esta ocación con un pequeño script en python3 les voy a mostar como le hice scraping a una pagina para obtener el valor del dolar en pesos (COP) en cualquier momento, escribiendo `dolar`
+comments: yes
+header:
+  overlay_color: "#333"
+  cta_label: "See on Github"
+  cta_url: "https://github.com/Jhonbeltran/web-scraping"
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+A medida que voy aprendiendo mas acerca de la terminal (de mi sistema basado en unix) me dan ganas de sacarle mas provecho, en esta ocación con un pequeño script en python3 les voy a mostar como le hice scraping a una pagina para obtener el valor del dolar en pesos (COP) en cualquier momento, escribiendo `dolar`
+## Requisitos
+* Un sistema basado en linux o alguna forma para emular el bash (en mi caso Ubuntu 17.04)
+* Python3 el cual trae instalado `venv` para el entorno virtual que usaremos o Python2 con la libreria `virtualenv`
+* Pip
+* Editor de texto (`vim, sublime text, atom ...`)
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+### Entorno virtual
+* Creamos la carpeta en la cual vamos a contener todo nuestro proyecto:
+`mkdir web_scraping`
+* Creamos nuestro entorno virtual(en este caso usando venv)
+`python3 -m venv enviroment`
+* Accedemos al entorno virtual
+`source enviroment/bin/activate`
+* cremos una carpeta donde crearemos el script y accedemos a ella
+`mkdir scraping\ncd scraping`
+* instalamos las librerias necesarias usando:
+`pip install beautifulsoup4 requests`
+### Script en Python
+Dentro de la carpeta /scraping creamos el siguiente script
+[Ver el codigo del Script en Python][raw-script-python]
 
-Jekyll also offers powerful support for code snippets:
+### Script en Bash
+Luego creamos el archivo dolar en bash con el siguiente contenido:
+[Ver el codigo del Script en Bash][raw-script-bash]
+Y lo guardamos en: `/usr/local/bin` o en cualquier otra dirección en el `$PATH` con los permisos necesarios para lo cual ejecutamos:\n`chmod 750 dolar`
+Y ahora ya podemos ejecutar nuestro script desde cualquier ubicacion en la terminal usando el comando\n`dolar`
+[Mas Ejemplos de Web Scraping](https://github.com/Jhonbeltran/web-scraping)
 
-{% highlight ruby %}
+{% highlight python %}
 def print_hi(name)
   puts "Hi, #{name}"
 end
@@ -18,8 +50,5 @@ print_hi('Tom')
 #=> prints 'Hi, Tom' to STDOUT.
 {% endhighlight %}
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+[raw-script-python]: https://raw.githubusercontent.com/Jhonbeltran/web-scraping/master/dolar_scraping.py
+[raw-script-bash]:  https://raw.githubusercontent.com/Jhonbeltran/web-scraping/master/dolar
