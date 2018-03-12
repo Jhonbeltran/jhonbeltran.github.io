@@ -1,6 +1,8 @@
 main:
   - title: "About"
     url: /about/
+  - title: "@jbeltranleon on Platzi"
+    url: https://platzi.com/@jbeltranleon
 
 docs:
   - title: Title
