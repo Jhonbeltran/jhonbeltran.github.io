@@ -1,6 +1,8 @@
 main:
+  - title: "Python Projects"
+    url: /python-projects
   - title: "About"
-    url: /about/
+    url: /about
   - title: "@jbeltranleon on Platzi"
     url: https://platzi.com/@jbeltranleon
 

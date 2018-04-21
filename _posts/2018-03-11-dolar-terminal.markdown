@@ -2,7 +2,7 @@
 layout: single
 title:  "¿Cómo saber el valor del dolar desde la terminal?"
 date:   2017-07-19 20:39:23 -0500
-categories: jekyll update
+categories: python
 share: yes
 author_profile: true
 author: Jhon Beltrán
