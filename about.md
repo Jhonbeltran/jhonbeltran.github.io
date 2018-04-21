@@ -45,7 +45,7 @@ Aun quedan muchas cosas por hacer, ciencias y humanidades, rescatar animales, ma
 
 > Por cierto, me gusta hablar en público.
 
-[mail]: mailto:jhonbeltran@imup.biz
+[mail]: mailto:jbeltranleon@gmail.com
 [Mythbusters_link]: discovery.com/tv-shows/mythbusters/
 [animal planet al extremo]: https://www.animalplanet.com/tv-shows/the-most-extreme/
 [platzi-link]: https://platzi.com
