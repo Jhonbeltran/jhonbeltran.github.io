@@ -93,7 +93,7 @@ Conceptos basicos de python
 Web Scraping de la página web https://xkcd.com de la cual sacaremos las imagenes y de https://xe.com de la cual extraemos el valor del dolar para hacer su conversión a pesos colombianos.
 
 <a href="https://github.com/Jhonbeltran/web-scraping" class="btn btn--primary" target="_blank">Ver en Github</a>
-[Dolar desde la Terminal ](../python/2017/07/19/dolar-terminal.html){: .btn .btn--success}
+[Dolar desde la Terminal ](../python/2017/07/20/dolar-terminal.html){: .btn .btn--success}
 
 ### Directorio de contactos
 
