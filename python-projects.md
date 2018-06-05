@@ -80,7 +80,7 @@ Implementación Web de estructura Base de Perceptron Simple y Multicapa
 
 <a href="https://github.com/Jhonbeltran/flask-perceptron" class="btn btn--primary" target="_blank">Ver en Github</a>
 
-<a href="https://safe-hamlet-52030.herokuapp.com" class=".btn .btn--success" target="_blank">Visitar</a>
+<a href="https://safe-hamlet-52030.herokuapp.com" class="btn btn--success" target="_blank">Visitar</a>
 
 ### Servidor flask Google Cloud
 
