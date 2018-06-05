@@ -16,6 +16,18 @@ A continuación les mostraré mis mejores repositorios en los que he usado pytho
 
 ## Jupyter
 
+### Machine Learning Platzi
+
+Notebooks del curso de machine learning aplicado con python de platzi
+
+<a href="https://github.com/Jhonbeltran/machine-learning-platzi" class="btn btn--primary" target="_blank">Ver en Github</a>
+
+### Fifa 18 Similar Players (Basic)
+
+Analisis de Data Set de jugadores en el Video Juego Fifa 18 Con dataset de Kaggle (Busqueda de similitud de jugadores en fase básica)
+
+<a href="https://github.com/Jhonbeltran/Fifa-18-similar-players" class="btn btn--primary" target="_blank">Ver en Github</a>
+
 ### Ejercicios de modelación 
 
 Ejercicios de modelacion en python
@@ -61,6 +73,14 @@ Aprendiendo como hacer autenticación con redes sociales con un modulo de Django
 <a href="https://github.com/Jhonbeltran/django-social-auth" class="btn btn--primary" target="_blank">Ver en Github</a>
 
 ## Flask
+
+### Perceptron Web App (Heroku)
+
+Implementación Web de estructura Base de Perceptron Simple y Multicapa
+
+<a href="https://github.com/Jhonbeltran/flask-perceptron" class="btn btn--primary" target="_blank">Ver en Github</a>
+
+<a href="https://safe-hamlet-52030.herokuapp.com" class=".btn .btn--success" target="_blank">Visitar</a>
 
 ### Servidor flask Google Cloud
 
