@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: Jhon Beltrán
 email: jhonbeltran@imup.biz
-description: Trabajo día a día con Wordpres, Desarrollador Junior con Python,
+description: Trabajo día a día con Wordpres, Desarrollador Backend con Python,
  me encanta todo el mundo del Big Data y del Machine Learning.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
