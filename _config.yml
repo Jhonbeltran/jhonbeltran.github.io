@@ -30,6 +30,11 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jbeltranleon
 github_username:  jhonbeltran
 
+# feed
+
+atom_feed:
+  path: "http://eepurl.com/dIiqZ5"
+
 # Build settings
 markdown: kramdown
 # theme: minima
@@ -62,4 +67,6 @@ repository: "jhonbeltran/jhonbeltran.github.io"
 teaser: /assets/images/teaser.jpg
 
 breadcrumbs: true  # disabled by default
-share: true
+
+# Search menu
+search: true
