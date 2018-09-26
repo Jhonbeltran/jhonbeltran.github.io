@@ -14,9 +14,17 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Jhon Beltrán
-email: jhonbeltran@imup.biz
-description: Trabajo día a día con Wordpres, Desarrollador Backend con Python,
- me encanta todo el mundo del Big Data y del Machine Learning.
+# SEO purpose
+title_separator: "|"
+# Author
+name: "Jhon Fredy Beltrán León"
+
+locale: "es-CO"
+
+email: jbeltranleon@gmail.com
+description: >- # this means to ignore newlines until "baseurl:"
+  Bienvenidos a la gh-page de un estudiante de universidad publica y de plataforma online #Ucundinamarca #Platzi.
+
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jbeltranleon
@@ -24,7 +32,9 @@ github_username:  jhonbeltran
 
 # Build settings
 markdown: kramdown
+# theme: minima
 remote_theme: "mmistakes/minimal-mistakes"
+minimal_mistakes_skin: "dark"
 plugins:
   - jekyll-feed
 
@@ -39,7 +49,16 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
 include: ["_pages"]
-include: ["_posts"]
+
+# Pagination
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
+
+repository: "jhonbeltran/jhonbeltran.github.io"
+
+#Image Default teaser
+teaser: /assets/images/teaser.jpg
+
+breadcrumbs: true  # disabled by default
