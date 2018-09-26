@@ -121,3 +121,25 @@ analytics:
   google:
     tracking_id: "UA-126479040-1"
     anonymize_ip: false
+
+
+footer:
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:jbeltranleon@gmail.com"
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin"
+      url: "https://www.linkedin.com/in/jbeltranleon"
+    - label: "Instagram"
+      icon: "fab fa-instagram"
+      url: "https://www.instagram.com/jbeltranleon"
+    - label: "Medium"
+      icon: fab fa-medium"
+      url: "https://medium.com/@jbeltranleon"
+    - label: "Twitter"
+      icon: "fab fa-twitter-square"
+      url: "https://twitter.com/jbeltranleon"
+    - label: "Facebook"
+      icon: "fab fa-facebook-square"
+      url: "https://www.facebook.com/jbeltranleon"
