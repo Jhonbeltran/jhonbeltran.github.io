@@ -30,6 +30,11 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jbeltranleon
 github_username:  jhonbeltran
 
+twitter:
+  username: "jbeltranleon"
+
+facebook:
+  username: "jbeltranleon"
 # feed
 
 atom_feed:
@@ -65,6 +70,7 @@ repository: "jhonbeltran/jhonbeltran.github.io"
 
 #Image Default teaser
 teaser: /assets/images/teaser.jpg
+og_image: /assets/images/teaser.jpg
 
 breadcrumbs: true  # disabled by default
 
