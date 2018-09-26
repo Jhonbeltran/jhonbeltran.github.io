@@ -39,7 +39,7 @@ atom_feed:
 markdown: kramdown
 # theme: minima
 remote_theme: "mmistakes/minimal-mistakes"
-minimal_mistakes_skin: "air"
+minimal_mistakes_skin: "dark"
 plugins:
   - jekyll-feed
 
@@ -82,7 +82,6 @@ defaults:
       share: true
 
 comments:
-  provider: "facebook"
-  facebook:
-    num_posts: 5
-    colorscheme: "dark"
+  provider: "disqus"
+  disqus:
+    shortname: "jhonbeltran"
