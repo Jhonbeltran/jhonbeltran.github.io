@@ -62,3 +62,4 @@ repository: "jhonbeltran/jhonbeltran.github.io"
 teaser: /assets/images/teaser.jpg
 
 breadcrumbs: true  # disabled by default
+share: true
