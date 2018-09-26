@@ -93,3 +93,19 @@ comments:
     branch    : "master"
 
 google_site_verification: "googled4b7816bf1ee524a"
+
+social:
+  type:  # Person or Organization (defaults to Person)
+  name:  # If the user or organization name differs from the site's name
+  links:
+    - "https://twitter.com/jbeltranleon"
+    - "https://facebook.com/jbeltranleon"
+    - "https://instagram.com/jbeltranleon"
+    - "https://www.linkedin.com/in/jbeltranleon"
+    - "https://plus.google.com/+JhonFredyBeltránLeón"
+
+analytics:
+  provider: "google-gtag"
+  google:
+    tracking_id: "UA-126479040-1"
+    anonymize_ip: false
