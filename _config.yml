@@ -79,3 +79,9 @@ defaults:
     values:
       read_time: true
       comments: true
+      share: true
+
+comments:
+  provider: "disqus"
+  disqus:
+    shortname: "jhonbeltran"
