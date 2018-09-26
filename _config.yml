@@ -82,6 +82,6 @@ defaults:
       share: true
 
 comments:
-  provider: "discourse"
-  discourse:
-    server: meta.discourse.org/t/minimal-mistakes/98125?u=jbeltranleon
+  provider  : "staticman_v2"
+  staticman:
+    branch    : "master"
