@@ -70,3 +70,12 @@ breadcrumbs: true  # disabled by default
 
 # Search menu
 search: true
+
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      read_time: true
+      comments: true
