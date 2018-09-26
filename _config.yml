@@ -39,7 +39,7 @@ atom_feed:
 markdown: kramdown
 # theme: minima
 remote_theme: "mmistakes/minimal-mistakes"
-# minimal_mistakes_skin: "dark"
+minimal_mistakes_skin: "air"
 plugins:
   - jekyll-feed
 
