@@ -88,6 +88,7 @@ defaults:
       share: true
       author_profile: true
       author: Jhon Beltrán
+      related: true
 
 defaults:
   # _pages
@@ -143,3 +144,6 @@ footer:
     - label: "Facebook"
       icon: "fab fa-facebook-square"
       url: "https://www.facebook.com/jbeltranleon"
+
+
+timezone: America/Bogota
