@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Try
 categories: jekyll update
 permalink: /cat/try/
