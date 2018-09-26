@@ -1,4 +1,6 @@
 main:
+  - title: "Acerca de mí"
+    url: /acerca-de-mi
   - title: "@jbeltranleon on Platzi"
     url: https://platzi.com/@jbeltranleon
 
