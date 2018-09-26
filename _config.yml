@@ -84,4 +84,4 @@ defaults:
 comments:
   provider: "disqus"
   disqus:
-    shortname: "jhonbeltran"
+    shortname: "jhonbeltran-github-io"
