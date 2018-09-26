@@ -82,6 +82,8 @@ defaults:
       share: true
 
 comments:
-  provider: "disqus"
-  disqus:
-    shortname: "jhonbeltran"
+  provider               : "facebook"
+  facebook:
+    appid                : # optional
+    num_posts            : # 5 (default)
+    colorscheme          : # "light" (default), "dark"
