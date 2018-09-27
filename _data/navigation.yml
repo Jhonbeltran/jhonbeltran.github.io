@@ -12,10 +12,10 @@ contact:
 
 
 docs:
-  - title: Getting Started
+  - title: Proyectos
     children:
-      - title: "Quick-Start Guide"
-        url: /docs/quick-start-guide/
+      - title: "Python"
+        url: /proyectos-python/
 
 
 # docs:

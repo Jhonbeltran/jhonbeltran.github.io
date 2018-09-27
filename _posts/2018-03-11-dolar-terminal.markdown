@@ -1,13 +1,15 @@
 ---
-layout: single
 title:  "¿Cómo saber el valor del dolar desde la terminal?"
 date:   2017-07-19 20:39:23 -0500
 categories: python
-share: yes
+layout: single
+read_time: true
+comments: true
+share: true
 author_profile: true
 author: Jhon Beltrán
+related: true
 excerpt: En esta ocación con un pequeño script en python3 les voy a mostar como le hice scraping a una pagina para obtener el valor del dolar en pesos (COP) en cualquier momento, escribiendo `dolar`
-comments: yes
 header:
   overlay_color: "#333"
   cta_label: "See on Github"

@@ -78,27 +78,17 @@ breadcrumbs: true  # disabled by default
 search: true
 
 defaults:
-  # _posts
-  - scope:
-      path: ""
-      type: posts
-    values:
-      read_time: true
-      comments: true
-      share: true
-      author_profile: true
-      author: Jhon Beltrán
-      related: true
-
-defaults:
   # _pages
   - scope:
       path: ""
       type: pages
     values:
       layout: single
+      comments: true
+      related: true
       sidebar:
         nav: "docs"
+      share: true
 
 comments:
   provider  : "staticman_v2"
@@ -108,8 +98,7 @@ comments:
 google_site_verification: "googled4b7816bf1ee524a"
 
 social:
-  type:  # Person or Organization (defaults to Person)
-  name:  # If the user or organization name differs from the site's name
+  type:  Person
   links:
     - "https://twitter.com/jbeltranleon"
     - "https://facebook.com/jbeltranleon"
