@@ -1,7 +1,7 @@
 ---
 title:  "¿Cómo saber el valor del dolar desde la terminal?"
 date:   2017-07-19 20:39:23 -0500
-categories: python
+categories: Python Bash
 layout: single
 read_time: true
 comments: true

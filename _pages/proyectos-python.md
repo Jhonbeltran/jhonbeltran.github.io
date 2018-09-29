@@ -1,5 +1,5 @@
 ---
-title: Python Projects
+title: Proyectos en Python
 permalink: /proyectos-python/
 toc: true
 toc_label: "Contenido"
