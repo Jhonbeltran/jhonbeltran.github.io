@@ -26,6 +26,8 @@ El siguiente curso que tomé fue el de **Curso de Machine Learning Aplicado con 
 
 El profesor ...
 
+Hablar de cada notebook en la pagina lo de bueno o malo en Medium
+
 
 <!-- Links -->
 [platzi-url]: https://platzi.com/
