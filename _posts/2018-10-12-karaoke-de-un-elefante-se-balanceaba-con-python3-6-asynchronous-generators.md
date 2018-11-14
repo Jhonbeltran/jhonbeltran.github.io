@@ -10,6 +10,7 @@ author_profile: true
 author: Jhon Beltrán
 related: true
 excerpt: ¿Alguna vez han necesitado cantar la asombrosa canción de “Un Elefante se Balanceaba” y no han tenido a la mano la letra?
+teaser: /assets/images/index.jpg
 header:
   overlay_color: "#333"
   cta_label: "Ver Repositorio"

@@ -133,6 +133,12 @@ footer:
     - label: "Facebook"
       icon: "fab fa-facebook-square"
       url: "https://www.facebook.com/jbeltranleon"
+    - label: "GitHub"
+      icon: "fab fa-github-square"
+      url: "https://github.com/jbeltranleon"
+    - label: "GitLab"
+      icon: "fab fa-gitlab"
+      url: "https://gitlab.com/jbeltranleon"
 
 
 timezone: America/Bogota
